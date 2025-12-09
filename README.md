@@ -2,7 +2,7 @@
 ## & I love Programming<br /><br />
 
 # 💫 About Me :
- a Computer Science Student
+I am an SDE I at Sabre Corporation
 - 🔭 I’m currently working on ... Enhancing my Programming Knowledge & developing new and enaging projects
 
 ## 🌐 Socials & Practice 💻
